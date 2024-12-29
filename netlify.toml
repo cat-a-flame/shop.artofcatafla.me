@@ -1,0 +1,5 @@
+[[redirects]]
+from = "https://shop.artofcatafla.me/*"
+to = "https://artofcataflame.etsy.com"
+status = 200
+force = true
